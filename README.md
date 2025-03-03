@@ -45,4 +45,4 @@ docker-compose exec app php artisan test
 
 ## License
 
-This project is open-sourced software licensed under the MIT license.
+This repository is licensed under a proprietary license. Unauthorized use, modification, or distribution of the contents is strictly prohibited. Please refer to the LICENSE file for details.
