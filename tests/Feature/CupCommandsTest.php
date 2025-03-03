@@ -31,7 +31,6 @@ class CupCommandsTest extends TestCase
     {
         parent::setUp();
 
-        // Only seed what we need
         $this->seed(TeamSeeder::class);
         $this->seed(MatchSeeder::class);
 
